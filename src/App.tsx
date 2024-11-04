@@ -8,7 +8,7 @@ function App() {
       <p>taskni vazifasi githubdagi repositoriyni collabratorlar bilgan manipulatsiya qilish va changelarni
         merge qilgandan so'ng UI da updated versiyasini ko'rish
       </p>
-        <span>all good</span>
+        <span>Hello Everybody</span>
     </div>
   );
 }
